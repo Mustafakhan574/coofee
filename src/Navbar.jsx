@@ -19,7 +19,7 @@ const Navbar = () => {
   </div>
 </header>
    {/* image area */}
-   <img src="../public/coffee-header.jpg" alt="loading..." />
+   <img src="/coffee-header.jpg" alt="loading..." />
   
   </div>
   )
